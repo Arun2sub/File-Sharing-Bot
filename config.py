@@ -63,7 +63,7 @@ USER_REPLY_TEXT = "❌Don't Send Me Messages Directly I'm Only File Share Bot !"
 
 START_MSG = os.environ.get("START_MESSAGE", "Hello {mention}\n\nI Can Store Private Files In Specified Channel And Other Users Can Access It From Special Link.")
 
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {mention}\n\n<b>You Need To Join In My 3 Channel To Use Me\n\nKindly Please Join Channel \n\nమీరు ఈ క్రింద ఉన్న 2 ఛానల్స్ లో జాయిన్ అవ్వాలి.. Join అయిన తర్వాత ' Try Again' Click చేస్తే File వస్తుంది 😊</b>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {mention}\n\n<b>You Need To Join In My 3 Channel To Use Me,So Kindly Please Join All Channels \n\nమీరు ఈ క్రింద ఉన్న 3 ఛానల్స్ లో జాయిన్ అవ్వాలి.. Join అయిన తర్వాత ' Try Again' Click చేస్తే File వస్తుంది 😊</b>")
 
 
 
