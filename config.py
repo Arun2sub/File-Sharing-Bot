@@ -11,8 +11,8 @@ API_HASH = os.environ.get("API_HASH", "8e039b83a886a2c2b97309ccc6298c20")
 
 
 OWNER_ID = int(os.environ.get("OWNER_ID", "982105601"))
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://maxine11229:2d0NThJZDM9iSu48@cluster0.9qvbj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DB_NAME = os.environ.get("DB_NAME", "maxine11229")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://tgarun163:qgq7VlZ1a4Ke9Dnh@cluster0.7iaqu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_NAME = os.environ.get("DB_NAME", "tgarun163")
 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001995978690"))
